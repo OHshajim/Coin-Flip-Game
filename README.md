@@ -1,6 +1,6 @@
 # CoinFlip game
 
-Live Link : https://prodify-232d8.web.app/
+Live Link : https://coin-flip-game-steel.vercel.app/
 
 
 ## Description
